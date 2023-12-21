@@ -1,11 +1,11 @@
 {
   "ads": true,
   "infoModal": {
-    "title": "განაახლე აპლიკაცია",
-    "description": "App Store-დან შეგიძლია აპლიკაციის განახლებული ვერსიით ისარგებლო",
+    "title": "კმაყოფილი ხართ ჩვენი აპლიკაციით?",
+    "description": "",
     "days": 7,
     "active": true,
-    "poll": false,
+    "poll": true,
     "answers": [
       {
         "id": 1,
@@ -14,10 +14,6 @@
       {
         "id": 2,
         "text": "არა"
-      },
-      {
-        "id": 3,
-        "text": "არ მაქვს პასუხი"
       }
     ]
   }
