@@ -3,7 +3,7 @@
   "infoModal": {
     "title": "კმაყოფილი ხართ ჩვენი აპლიკაციით?",
     "description": "",
-    "days": 7,
+    "days": 5,
     "active": true,
     "poll": true,
     "answers": [
