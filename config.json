@@ -1,11 +1,11 @@
 {
   "ads": true,
   "infoModal": {
-    "title": "კმაყოფილი ხართ ჩვენი აპლიკაციით?",
-    "description": "",
-    "days": 5,
+    "title": "შექმენი ავტობუსისა და გაჩერების შაბლონი",
+    "description": "გადადი ავტობუსის ან გაჩერების გვერდზე და დააჭირე დაშაბლონების ღილაკს",
+    "days": 7,
     "active": true,
-    "poll": true,
+    "poll": false,
     "answers": [
       {
         "id": 1,
