@@ -2,8 +2,8 @@
   "ads": true,
   "clear": false,
   "infoModal": {
-    "title": "განაახლეთ აპლიკაცია",
-    "description": "აპლიკაციით სარგებლობისთვის გთხოვთ განაახლოთ აპლიკაცია App Store-დან",
+    "title": "განაახლეთ აპლიკაცია!",
+    "description": "აპლიკაციით სარგებლობისთვის გთხოვთ აუცილებლად განაახლოთ აპლიკაცია App Store-დან",
     "days": 0,
     "active": true,
     "poll": false,
