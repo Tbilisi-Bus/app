@@ -2,7 +2,7 @@
   "title": "შექმენი შაბლონი",
   "description": "გადადი ავტობუსის ან გაჩერების გვერდზე და დააჭირე დაშაბლონების ღილაკს",
   "days": 7,
-  "active": true,
+  "active": false,
   "poll": false,
   "answers": [
     {
