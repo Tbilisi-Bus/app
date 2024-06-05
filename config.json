@@ -4,7 +4,7 @@
   "infoModal": {
     "title": "განაახლეთ აპლიკაცია",
     "description": "აპლიკაციით სარგებლობისთვის გთხოვთ განაახლოთ აპლიკაცია App Store-დან",
-    "days": 7,
+    "days": 0,
     "active": true,
     "poll": false,
     "answers": [
