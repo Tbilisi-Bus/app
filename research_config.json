@@ -13,5 +13,9 @@
       "id": 2,
       "text": "არა"
     }
-  ]
+  ],
+  "update": {
+    "active": true,
+    "version": '1.5.0'
+  }
 }
