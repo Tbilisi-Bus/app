@@ -1,0 +1,23 @@
+{
+  "research": {
+    "title": "შექმენი შაბლონი",
+    "description": "გადადი ავტობუსის ან გაჩერების გვერდზე და დააჭირე დაშაბლონების ღილაკს",
+    "days": 7,
+    "active": false,
+    "poll": false,
+    "answers": [
+      {
+        "id": 1,
+        "text": "კი"
+      },
+      {
+        "id": 2,
+        "text": "არა"
+      }
+    ]
+  },
+  "update": {
+    "active": true,
+    "version": "1.5.0"
+  }
+}
