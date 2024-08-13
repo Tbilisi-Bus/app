@@ -4,7 +4,7 @@
     "description": "გადადი ავტობუსის ან გაჩერების გვერდზე და დააჭირე დაშაბლონების ღილაკს",
     "days": 0,
     "active": true,
-    "poll": false,
+    "poll": true,
     "answers": [
       {
         "id": 1,
