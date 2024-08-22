@@ -2,8 +2,8 @@
   "research": {
     "title": "შექმენი შაბლონი",
     "description": "გადადი ავტობუსის ან გაჩერების გვერდზე და დააჭირე დაშაბლონების ღილაკს",
-    "days": 1,
-    "active": true,
+    "days": 5,
+    "active": false,
     "poll": false,
     "answers": [
       {
