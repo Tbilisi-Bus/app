@@ -17,7 +17,7 @@
     ]
   },
   "update": {
-    "active": true,
+    "active": false,
     "version": "1.5.5"
   }
 }
